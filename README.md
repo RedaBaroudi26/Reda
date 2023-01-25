@@ -2,12 +2,11 @@
 
 ## Skills
 - Java - Spring - RESTful API development
-- Typescript
-- Angular
-- HTML5 / CSS3 / Javascript
+- Typescript - Angular
+- HTML5 - CSS3 - Javascript
 - Database design and modeling
 - UML
-- MySQL / Oracle
+- MySQL / Oracle / Postgresql
 - MongoDB
 - Design Patterns
 - SOLID principles
