@@ -12,7 +12,7 @@
 - SOLID principles
 
 ## Projects
-- [Portfolio/Blog](https://github.com/username/project-name) - Design and Realization of a Portfolio/Blog website (present my projects and write articles on new technologies)
+- [Portfolio/Blog](https://github.com/RedaBaroudi26/Portfolio) - Design and Realization of a Portfolio/Blog website (present my projects and write articles on new technologies)
 - [S-Store](https://github.com/RedaBaroudi26/S-Store) - Design and production of an E-commerce website for the sale of computer equipment
 
 ## Summary
